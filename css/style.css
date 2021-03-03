@@ -1,0 +1,84 @@
+.my_nav{
+    margin-inline-start: auto;
+    padding-right: 150px;
+}
+hr{
+    color: white;
+    margin-top: 30px;
+} 
+.btn-contact{
+    width: 150px;
+}
+.one{
+    color: white;
+   font-family: sans-serif;
+}
+.two{
+    color: white;
+    font-family: sans-serif;
+}
+.path{
+    color: white;
+    text-align: justify;
+}
+ .btn-contact-2{
+    margin-top: 20px;
+} */
+.small{
+    margin-top: 230px;
+}
+.font{
+    color: black;
+}
+.A{
+    height: 508px;
+    margin-top: 222px;
+}
+.B{
+    height: 320px;
+    width: 173px;
+    margin-top: -110px;
+}
+.nil{
+    margin-top: 50px;
+}
+.background{
+    background-image: url(../Images/coil\ A.svg);
+    background-repeat: no-repeat;
+    background-position: top left;
+    background-size: cover;
+    background-size: 100%;
+}
+.hr2{
+    color: black;
+    width: 138px;
+    margin-left: 30px;
+}
+p{
+    text-align: center;
+}
+h3{
+    text-align: center;
+}
+h1{
+    color: white;
+    font-family: auto;
+    font-size: 50px;
+    text-align: justify;
+}
+.btn-contact-3{
+    margin-top: 50px;
+    height: 40px;
+}
+.ruth{
+    background-image: url('../Images/bg-pattern-how-we-work-desktop.svg');
+    background-repeat: no-repeat;
+    background-position: right;
+}
+.hr3{
+    color: black;
+    margin-top: 30px;
+}
+h5{
+    text-align: center;
+}

@@ -1,0 +1,10 @@
+
+@media only screen and (max-width: 991px){
+    .my_row{
+         display: flex  !important;
+         flex-direction: column-reverse !important;
+     }
+     
+ 
+ 
+ }
